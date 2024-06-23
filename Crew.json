@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Captain Smith",
+      "LifeBoats": {
+        "capacity": 50
+      },
+      "role": "Captain"
+    },
+    {
+      "name": "First Officer Williams",
+      "LifeBoats": {
+        "capacity": 40
+      },
+      "role": "First Officer"
+    },
+    {
+      "name": "Chief Engineer Brown",
+      "LifeBoats": {
+        "capacity": 45
+      },
+      "role": "Engineer"
+    }
+  ]

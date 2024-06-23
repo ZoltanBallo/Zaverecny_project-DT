@@ -1,0 +1,74 @@
+[
+    {
+      "name": "John Doe",
+      "gender": "male",
+      "age": 30,
+      "survived": 1,
+      "address": {
+        "country": "USA",
+        "town": "New York"
+      },
+      "cabin": {
+        "number": 123,
+        "name": "C123",
+        "deck": "Upper"
+      },
+      "tickets": {
+        "Pclass": 1,
+        "fare": 200.50,
+        "TicketCode": "A12345"
+      },
+      "SibSp": 0,
+      "ParCh": 0,
+      "embarking_port": "New York",
+      "family_size": 1
+    },
+    {
+      "name": "Jane Smith",
+      "gender": "female",
+      "age": 25,
+      "survived": 0,
+      "address": {
+        "country": "UK",
+        "town": "London"
+      },
+      "cabin": {
+        "number": 101,
+        "name": "B101",
+        "deck": "Middle"
+      },
+      "tickets": {
+        "Pclass": 2,
+        "fare": 150.00,
+        "TicketCode": "B12345"
+      },
+      "SibSp": 1,
+      "ParCh": 1,
+      "embarking_port": "Southampton",
+      "family_size": 3
+    },
+    {
+      "name": "Alice Johnson",
+      "gender": "female",
+      "age": 28,
+      "survived": 1,
+      "address": {
+        "country": "Canada",
+        "town": "Toronto"
+      },
+      "cabin": {
+        "number": 200,
+        "name": "A200",
+        "deck": "Lower"
+      },
+      "tickets": {
+        "Pclass": 3,
+        "fare": 100.75,
+        "TicketCode": "C12345"
+      },
+      "SibSp": 2,
+      "ParCh": 2,
+      "embarking_port": "Quebec",
+      "family_size": 5
+    }
+  ]
